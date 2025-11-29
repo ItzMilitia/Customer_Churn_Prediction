@@ -18,7 +18,7 @@ Improve customer experience
 
 Reduce revenue loss
 
-🛠 Skills & Tools Demonstrated:
+# Skills & Tools Demonstrated:
 
 Data Analysis & Visualization: pandas, numpy, matplotlib, seaborn
 
